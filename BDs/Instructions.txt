@@ -1,0 +1,9 @@
+1. Copy the other 4 files  into the folder "Data" of SQL Server (e.g.: C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA).
+
+2. Attach the database "Steinway" following the next steps:
+	a. Run Microsoft SQL Server Management Studio.  
+	b. Right-click on Databases and select the command/option Attach.
+	c. Add the database "Steinway" using the command button "Add".
+
+3. Attach the database "Stradivarius" following again the previous steps.
+	
